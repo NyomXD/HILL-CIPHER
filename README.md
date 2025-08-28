@@ -1,6 +1,7 @@
-# HILL CIPHER
+# EX NO. 3: IMPLEMENTATION OF HILL CIPHER
 
-## AIM: To write a C program to implement the hill cipher substitution techniques.
+## AIM: 
+To write a C program to implement the hill cipher substitution techniques.
 
 ## DESCRIPTION:
 
@@ -62,10 +63,10 @@ int main() {
     return 0;
 }
 ```
-
+## OUTPUT
 <img width="1643" height="881" alt="image" src="https://github.com/user-attachments/assets/aae094e1-c1bb-4890-be3b-2bde04ba50cc" />
 
 
 
 ## RESULT : 
-           To write a C program to implement the hill cipher substitution techniques is implemented successfully.
+To write a C program to implement the hill cipher substitution techniques is implemented successfully.
